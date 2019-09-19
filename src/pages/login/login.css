@@ -1,0 +1,16 @@
+.link a{
+    color:#FF9651;
+}
+.link a:hover{
+    text-decoration-line: underline;
+}
+.footer{
+    width:100%;
+    position: fixed;
+    bottom: 10px;
+    color:#a5a5a5;
+    text-align: center;
+}
+.am-list-item .am-input-control input{
+    color:#333;
+}

@@ -1,0 +1,19 @@
+/* div.am-input-control .am-input-extra:hover{
+    cursor: pointer;
+} */
+.am-list-item div.am-input-extra{
+    color:#a5a5a5;
+}
+.am-checkbox-wrapper {
+    padding: 2.5px 5px;
+    color:#a5a5a5;
+}
+.am-checkbox-wrapper span{
+    color:#FF9651;
+    margin-right: 5px;
+      
+  }
+
+  a{
+      color:#FF9651;
+  }
